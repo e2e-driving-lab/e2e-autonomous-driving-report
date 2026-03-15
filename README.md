@@ -11,7 +11,7 @@ Purpose | Task
 Without this structural separation, explainability and responsibility attribution become formally impossible.
 The paper further discusses an evaluation method for E2E autonomous driving models using the propensity score.
 
-Scope of this paper
+Scope of this paper;
 
 This paper focuses on the structural requirements for decision explainability in autonomous driving.
 
