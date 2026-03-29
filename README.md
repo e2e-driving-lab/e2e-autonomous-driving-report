@@ -3,7 +3,10 @@ Technical report on structural limitations of end-to-end autonomous driving expl
 ## Paper
 Formalizing Explainability.pdf
 　　　Latest Version: Revision 7.6 
-March 28, 2026
+March 27, 2026
+Appendix 
+      Latest version: Revision 1.0
+March 28, 2026    
 
 ## Main claim
 Institutional responsibility attribution requires explicit separation of:
