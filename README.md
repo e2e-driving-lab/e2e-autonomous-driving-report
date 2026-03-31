@@ -23,9 +23,9 @@ Rather than proposing a specific AI algorithm, the paper analyzes the architectu
 
 Although several implementation concepts are discussed in this paper, the concrete AI realization of these structures remains an open engineering problem for future research.
 
-In domains like Go or Shogi, trial‑and‑error search is safe. 
-Real‑world autonomous systems, however, cannot tolerate even a single fatal mistake, and virtual reinforcement‑learning environments suffer from scenario explosion and limited realism. 
-By contrast, pharmaceuticals possess institutionalized empirical‑validation buffers—animal studies and multi‑phase clinical trials—that absorb catastrophic risk before deployment. 
+Game‑tree optimization necessarily proceeds through trial‑and‑error exploration, a process that is safe only in virtual game domains such as IGO and SHOGI. 
+Real‑world autonomous systems, however, cannot tolerate even a single fatal mistake, and reinforcement‑learning in simulation suffers from scenario explosion and limited realism. 
+By contrast, pharmaceuticals possess institutionalized empirical‑validation buffers—animal studies and clinical trials—that absorb catastrophic risk before real‑world deployment.
 
 ## Keywords
 Autonomous driving,
