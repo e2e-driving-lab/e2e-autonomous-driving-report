@@ -25,7 +25,7 @@ Although several implementation concepts are discussed in this paper, the concre
 
 In comparison, Game‑tree optimization necessarily proceeds through trial‑and‑error exploration, a process that is safe only within virtual domains such as Go and Shogi. 
 Real‑world autonomous systems, however, cannot tolerate even a single fatal mistake, and reinforcement learning in simulation suffers from scenario explosion and inherently limited realism. 
-By contrast, pharmaceuticals possess institutionalized empirical‑validation buffers—animal studies and multi‑phase clinical trials—that absorb catastrophic risk prior to real‑world deployment.
+Similarly, pharmaceuticals possess institutionalized empirical‑validation buffers—animal studies and multi‑phase clinical trials—that absorb catastrophic risk prior to real‑world deployment.
 
 ## Keywords
 Autonomous driving,
