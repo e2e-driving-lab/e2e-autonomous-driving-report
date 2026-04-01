@@ -23,7 +23,7 @@ Rather than proposing a specific AI algorithm, the paper analyzes the architectu
 
 Although several implementation concepts are discussed in this paper, the concrete AI realization of these structures remains an open engineering problem for future research.
 
-In comparison, Game‑tree optimization necessarily proceeds through trial‑and‑error exploration, a process that is safe only within virtual domains such as Go and Shogi. 
+In comparison, a game tree is a tool for enumerating the order of actions, not a representation of causal structure. Game‑tree optimization necessarily proceeds through trial‑and‑error exploration, a process that is safe only within virtual domains such as Go and Shogi. 
 Real‑world autonomous systems, however, cannot tolerate even a single fatal mistake, and reinforcement learning in simulation suffers from scenario explosion and inherently limited realism. 
 Similarly, pharmaceuticals possess institutionalized empirical‑validation buffers—animal studies and multi‑phase clinical trials—that absorb catastrophic risk prior to real‑world deployment.
 
