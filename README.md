@@ -2,8 +2,8 @@
 Technical report on structural limitations of end-to-end autonomous driving explainability.
 ## Paper
 Formalizing Explainability.pdf
-　　　Latest Version: Revision 7.6 
-March 27, 2026
+　　　Latest Version: Revision 7.8 
+Aug 14, 2026
 
 Appendix.pdf　　　              Latest Version: Revision 1.0
 March 28, 2026    
