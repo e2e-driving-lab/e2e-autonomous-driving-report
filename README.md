@@ -5,7 +5,7 @@ Formalizing Explainability.pdf
 　　　Latest Version: Revision 7.8 
 Aug 14, 2026
 
-Appendix.pdf　　　              Latest Version: Revision 1-4
+Appendix to Formalizing Explainability.pdf　　　              Latest Version: Revision 1-4
 April 3, 2026    
 
 ## Main claim
