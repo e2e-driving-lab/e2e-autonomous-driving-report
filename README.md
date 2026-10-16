@@ -8,6 +8,9 @@ Aug 14, 2026
 Appendix to Formalizing Explainability.pdf　　　              Latest Version: Revision 1-4
 April 3, 2026    
 
+Appendix to the ETCS Framework.pdf　　　              Latest Version: Revision 1-4-4  
+Sep. 7, 2026
+
 ## Main claim
 Institutional responsibility attribution requires explicit separation of:
 Purpose | Task
